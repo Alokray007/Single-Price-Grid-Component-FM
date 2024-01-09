@@ -23,14 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile-1](https://raw.github.com/Alokray007/four-card-feature-FM/main/screenshots/mobile-1.png)
-![mobile-2](https://raw.github.com/Alokray007/four-card-feature-FM/main/screenshots/mobile-2.png)
-![desktop](https://raw.github.com/Alokray007/four-card-feature-FM/main/screenshots/desktop.png)
+![mobile-1](https://raw.github.com/Alokray007/Single-Price-Grid-Component-FM/main/screenshots/mobile-design-1.png)
+![mobile-2](https://raw.github.com/Alokray007/Single-Price-Grid-Component-FM/main/screenshots/mobile-design-2.png)
+![desktop](https://raw.github.com/Alokray007/Single-Price-Grid-Component-FM/main/screenshots/desktop-design.png)
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Alokray007/four-card-feature-FM)
-- Live Site URL: [Netlify- Live Site](https://fourcrdfeat.netlify.app/)
+- Solution URL: [Github](https://github.com/Alokray007/Single-Price-Grid-Component-FM)
+- Live Site URL: [Netlify- Live Site](https://1pricegridcomp.netlify.app/)
 
 ## My process
 
@@ -44,4 +44,5 @@ Users should be able to:
 
 ## Author
 
+- Website - [Alok Suman](https://portfolio-alok1.netlify.app/)
 - Frontend Mentor - [@Alokray007](https://www.frontendmentor.io/profile/Alokray007)
